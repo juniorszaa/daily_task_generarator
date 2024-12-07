@@ -17,3 +17,15 @@ Cronograma de Desenvolvimento
 | Implementação das funções   | Adicionar lógica para gerenciar tarefas | Dias 4 a 6      |  
 | Testes e ajustes            | Realizar testes e corrigir bugs    | Dias 7 e 8      |  
 | Finalização e documentação  | Documentar todo o processo         | Dia 9           |
+
+Configuração Inicial 
+
+Criei o repositório no GitHub e configurei o projeto localmente.
+Adicionei um arquivo README.md para documentar os objetivos, funcionalidades e cronograma do projeto
+
+Como o Git Ajudou no Gerenciamento do Projeto
+
+Controle de Versão: Cada funcionalidade foi desenvolvida em branches separadas, garantindo independência no desenvolvimento.
+Rastreamento de Mudanças: Os commits permitiram acompanhar o progresso de cada funcionalidade.
+Resolução de Conflitos: O Git facilitou a identificação e resolução de conflitos de código.
+Colaboração Simulada: Mesmo em um projeto individual, o uso de branches simulou um ambiente colaborativo.
